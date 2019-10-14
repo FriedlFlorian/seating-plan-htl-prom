@@ -40,7 +40,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      30      |                       |        |                              |
 |      31      | Gökcer Yolacan        | 4AFIT  | 10                           |
 |      32      | Arian Kalenderi       | 4AFIT  |                              |
-|      33      | Thomas Böhm           | 5BHIF  | 8                            |
+|      33      | Thomas Böhm           | 5BHIF  | 10                           |
 |      34      | Lukas Mistlberger     | 5BHIF  | 10                           |
 |      35      | Andreas Kastenhofer   | 5BHIF  | 10                           |
 |      36      | Adem Srndic           | 5BHIF  | 4                            |
