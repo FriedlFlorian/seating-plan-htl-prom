@@ -48,8 +48,8 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      38      | Armin Causevic        | 5BHIF  | 8                            |
 |      39      |                       |        |                              |
 |      40      | Deniz Ongun           | 4AFIT  | 6                            |
-|      41      |                       |        |                              |
-|      42      |                       |        |                              |
+|      41      | Florian Friedl        | 5AHIF  |                              |
+|      42      | Florian Friedl        | 5AHIF  |                              |
 |      43      |                       |        |                              |
 |      44      |                       |        |                              |
 |      45      |                       |        |                              |
